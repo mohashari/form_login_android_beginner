@@ -1,0 +1,7 @@
+#Tue May 16 14:44:32 WIB 2017
+base.0=/home/aska/AndroidStudioProjects/CobaLogin2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_18c73386f953fa44bc0bfc673252fc023bfa00ba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/aska/AndroidStudioProjects/CobaLogin2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd0a4d02c8a1f44e437b6e92a22a21d76b70f058/classes.dex
+base.1=/home/aska/AndroidStudioProjects/CobaLogin2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd0a4d02c8a1f44e437b6e92a22a21d76b70f058
+file.0=/home/aska/AndroidStudioProjects/CobaLogin2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_18c73386f953fa44bc0bfc673252fc023bfa00ba/classes.dex
